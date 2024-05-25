@@ -1,3 +1,4 @@
 1. Variables in TS
 2. DataTypes in TS
 3. Type assignment and Type Inferance
+4. Object type in TS
