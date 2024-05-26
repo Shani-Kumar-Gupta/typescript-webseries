@@ -3,7 +3,7 @@
 */
 
 let numArr: number[] = [23, 34, 56];
-let person = ['Shani', 24, true, {
+let person1 = ['Shani', 24, true, {
   name: 'Shani'
 }];
 let birthYear = [1980, 1997, 1999]; // Automatic Type Inferance
