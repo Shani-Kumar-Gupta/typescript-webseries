@@ -5,3 +5,4 @@
 5. Arrays in TS
 6. Tuples in TS
 7. Enum in TS
+8. any type in TS
