@@ -10,3 +10,4 @@
 10. Literal Type in TS
 11. Understanding Type Alias
 12. Function Return type in TS
+13. Function as Type in TS
